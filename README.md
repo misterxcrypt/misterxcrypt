@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I’m Hariharan, a Cyber Threat Intelligence Analyst focused on OSINT, social engineering, and scam detection.<br>🔍 I’m always open to collaborating on cybersecurity projects, especially in threat intelligence and automation.<br>🚀 Currently learning system hacking and reverse engineering to stay ahead in the cyber field.<br>💡 Ask me about OSINT techniques, financial fraud detection, or cybersecurity tools.<br>🌟 Fun fact: I love exploring new open-source tools and sharing my findings with the community.
+👋 Hi! I’m Hariharan, a Cyber Threat Intelligence Analyst focused on OSINT, social engineering, and cyber fraud detection.<br>🔍 I’m always open to collaborating on cybersecurity projects, especially in threat intelligence and automation.<br>🚀 Currently learning system hacking and reverse engineering to stay ahead in the cyber field.<br>💡 Ask me about OSINT techniques, financial fraud detection, or cybersecurity tools.<br>🌟 Fun fact: I love exploring new open-source tools and sharing my findings with the community.
 
 
 ## 🌐 Socials:
